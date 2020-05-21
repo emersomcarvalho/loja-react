@@ -1,0 +1,40 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    }
+    
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Macacão confottável",
+      "price": 79.9,
+      "image": "https://cdn.awsli.com.br/800x800/54/54052/produto/4829096/14d32b7b5e.jpg"    
+
+    },
+    {
+      "id": 2,
+      "title": "Puff",
+      "price": 100.0,
+      "image": "https://ae01.alicdn.com/kf/HTB1nuZSiIUrBKNjSZPxq6x00pXaT/Pikachu-saco-de-dormir-dos-desenhos-animados-colch-o-sof-almofada-cama-dupla-almofada-de-espuma.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Tênis Pokemon  2.0",
+      "price": 219.9,
+      "image": "https://i.pinimg.com/originals/7e/0a/95/7e0a95debf27c2930e71c9c578bce216.jpg"
+    }
+    
+  ]
+}
+
